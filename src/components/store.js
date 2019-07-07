@@ -3,8 +3,8 @@
 const BreedList = 
   {
     siamese: ['cute', 'small' ], 
-    calico: ['female', 'medium', 'common'],
-    tuxedo: ['tough', 'black and white', 'boss pig'] 
+    calico: ['female', 'sweet', 'common'],
+    tuxedo: ['tough', 'black and white', 'curious'] 
   }
 
 
